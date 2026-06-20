@@ -1,31 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
-	},
+    title: "Mostafa Portfolio",
+    name: "Mostafa",
+    email: "mostafaalnatsheh53@gmail.com",
+    logo: "../logo.png",
+},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		github: "https://github.com/mostafaalnatsheh53",
+		linkedin: "https://www.linkedin.com/in/mostafa-natsheh",
+		instagram: "https://www.instagram.com/mostafa.natsheha?igsh=MWp3OTN2b3Ntd3Vhag==",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
-	},
+    title: "Computer Science Student | Backend Developer | .NET Enthusiast",
+    description:
+        "I am a Computer Science student at Palestine Polytechnic University with a strong interest in backend development and software engineering. I enjoy building web applications using C#, ASP.NET Core, Entity Framework, and SQL Server while continuously improving my problem-solving and development skills.",
+},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
+	title: "I'm Mostafa, a Computer Science student and aspiring Backend Developer.",
+	description:
+		"I am currently studying Computer Science at Palestine Polytechnic University. My main interests are backend development, software engineering, databases, and building scalable web applications. I enjoy learning new technologies and applying them in real-world projects while continuously improving my technical and problem-solving skills.",
+},
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
