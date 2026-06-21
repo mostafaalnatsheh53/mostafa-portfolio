@@ -43,13 +43,13 @@ const INFO = {
 },
 
 		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+	title: "PPU Assistant Bot",
+	description:
+		"An AI-powered assistant for Palestine Polytechnic University that helps students access university information, answer common questions, and provide academic support through a smart chatbot interface.",
+	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+	linkText: "View Project",
+	link: "https://github.com/mostafaalnatsheh53/ppu-assistant-bot",
+},
 
 		{
 	title: "Mostafa Portfolio",
